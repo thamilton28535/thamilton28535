@@ -1,9 +1,2 @@
 # thamilton28535.github.io
-[Orignal Creator](https://replit.com/@frankJohnson7/)
-____   ______________                                          
-\   \ /   /\______   \_______  ______  _  ________ ___________ 
- \   Y   /  |    |  _/\_  __ \/  _ \ \/ \/ /  ___// __ \_  __ \
-  \     /   |    |   \ |  | \(  <_> )     /\___ \\  ___/|  | \/
-   \___/    |______  / |__|   \____/ \/\_//____  >\___  >__|   
-                   \/                          \/     \/       
-
+[Orignal Creator](https://github.com/binary-person/womginx)
